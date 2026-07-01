@@ -1,5 +1,13 @@
 # Synthetic Voluntary Attrition Intervention Learning Loop
 
+[![Version](https://img.shields.io/badge/version-v0.1.0--portfolio-blue)](#)
+[![Python](https://img.shields.io/badge/python-3.12-blue)](#)
+[![Data](https://img.shields.io/badge/data-100%25%20synthetic-brightgreen)](#)
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](#)
+[![License](https://img.shields.io/badge/license-Apache%202.0-yellow)](LICENSE)
+[![Status](https://img.shields.io/badge/status-portfolio%20release-informational)](#)
+
+
 A clean-room Python project demonstrating a governed synthetic machine learning workflow for voluntary attrition prediction, intervention prioritisation, treatment logging, treatment-aware re-learning, and portfolio-ready reporting in a financial-services context.
 
 This repository uses synthetic data only. It does not include, reproduce, reference, or depend on any real customer, member, employer, financial, operational, confidential, or proprietary organisation data.

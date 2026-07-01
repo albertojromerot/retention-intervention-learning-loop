@@ -2,9 +2,9 @@
 
 This project is designed to demonstrate responsible machine learning practices in a synthetic financial-services context.
 
-## Planned governance controls
+## Governance controls
 
-The project will include:
+The project includes:
 
 - Synthetic data only.
 - Temporal validation.
@@ -22,8 +22,8 @@ The model is designed to support prioritisation and analysis. It should not be i
 
 ## Sensitive data principle
 
-The project will not use real personal data or protected attributes. Any demographic-style fields will be synthetic, coarse, and included only when necessary for technical demonstration.
+The project does not use real personal data or protected attributes. Any demographic-style fields will be synthetic, coarse, and included only when necessary for technical demonstration.
 
 ## Intervention principle
 
-The project will frame interventions as supportive, service-oriented, and non-punitive.
+The project frames interventions as supportive, service-oriented, and non-punitive.

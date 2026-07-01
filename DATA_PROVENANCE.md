@@ -6,9 +6,9 @@ The synthetic data is designed to represent plausible financial-services behavio
 
 No external, confidential, employer, customer, member, operational, financial, or proprietary datasets are used.
 
-## Planned synthetic data layers
+## Synthetic data layers
 
-The project will generate synthetic data for:
+The project generates synthetic data for:
 
 - Customer profiles.
 - Monthly relationship activity.
@@ -24,4 +24,4 @@ The project will generate synthetic data for:
 
 ## Reproducibility
 
-Synthetic data generation will use deterministic random seeds so that results can be reproduced locally.
+Synthetic data generation uses deterministic random seeds so that results can be reproduced locally.
