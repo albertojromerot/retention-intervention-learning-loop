@@ -46,7 +46,7 @@ It is not intended for real credit decisions, real eligibility decisions, real c
 
 Any production use would require real data governance, privacy review, legal review, fairness assessment, model risk management, monitoring, and human oversight.
 
-## Interview explanation
+## Explanation
 
 I built this as a clean-room portfolio project to demonstrate how I think about analytics delivery beyond dashboards or isolated models.
 
