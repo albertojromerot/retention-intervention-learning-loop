@@ -1,0 +1,27 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Generated synthetic data and heavy pipeline outputs
+data/synthetic/*.csv
+outputs/*.csv
+
+# Keep visual portfolio outputs if desired
+!outputs/plots/
+!outputs/plots/*.png
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
