@@ -1,6 +1,6 @@
 # Portfolio Explanation — Synthetic Retention Intervention Learning Loop
 
-## One-line summary
+## Summary
 
 This project demonstrates a clean-room, synthetic machine learning workflow for prioritising voluntary attrition interventions in a financial-services context.
 
